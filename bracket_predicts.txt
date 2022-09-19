@@ -1,0 +1,69 @@
+===First Round===
+Virginia,             0.8820, Gardner Webb,         0.1180
+Mississippi,          0.4088, Oklahoma,             0.5912
+Wisconsin,            0.5402, Oregon,               0.4598
+Kansas St,            0.5043, UC Irvine,            0.4957
+Villanova,            0.5097, Saint Mary's,         0.4903
+Purdue,               0.6833, Old Dominion,         0.3167
+Cincinnati,           0.5777, Iowa,                 0.4223
+Tennessee,            0.7668, Colgate,              0.2332
+Duke,                 0.9216, North Dakota St,      0.0784
+VCU,                  0.4619, UCF,                  0.5381
+Mississippi St,       0.5347, Liberty,              0.4653
+Virginia Tech,        0.6983, Saint Louis,          0.3017
+Maryland,             0.5238, Belmont,              0.4762
+LSU,                  0.6462, Yale,                 0.3538
+Louisville,           0.5475, Minnesota,            0.4525
+Michigan St,          0.8724, Bradley,              0.1276
+Gonzaga,              0.9441, Fairleigh Dickinson,  0.0559
+Syracuse,             0.5103, Baylor,               0.4897
+Marquette,            0.5079, Murray St,            0.4921
+Florida St,           0.6184, Vermont,              0.3816
+Buffalo,              0.6709, Arizona St,           0.3291
+Texas Tech,           0.7506, Northern Kentucky,    0.2494
+Nevada,               0.6058, Florida,              0.3942
+Michigan,             0.7932, Montana,              0.2068
+North Carolina,       0.9258, Iona,                 0.0742
+Utah St,              0.5591, Washington,           0.4409
+Auburn,               0.5608, New Mexico St,        0.4392
+Kansas,               0.6799, Northeastern,         0.3201
+Iowa St,              0.6124, Ohio St,              0.3876
+Houston,              0.7952, Georgia St,           0.2048
+Wofford,              0.6792, Seton Hall,           0.3208
+Kentucky,             0.8381, Abilene Christian,    0.1619
+===Second Round===
+Virginia,             0.7291, Oklahoma,             0.2709
+Wisconsin,            0.5397, Kansas St,            0.4603
+Purdue,               0.5857, Villanova,            0.4143
+Cincinnati,           0.4164, Tennessee,            0.5836
+Duke,                 0.6403, UCF,                  0.3597
+Mississippi St,       0.4080, Virginia Tech,        0.5920
+LSU,                  0.4992, Maryland,             0.5008
+Louisville,           0.3086, Michigan St,          0.6914
+Gonzaga,              0.7725, Syracuse,             0.2275
+Marquette,            0.4280, Florida St,           0.5720
+Texas Tech,           0.5821, Buffalo,              0.4179
+Nevada,               0.3903, Michigan,             0.6097
+North Carolina,       0.5923, Utah St,              0.4077
+Auburn,               0.5128, Kansas,               0.4872
+Houston,              0.6181, Iowa St,              0.3819
+Wofford,              0.4044, Kentucky,             0.5956
+===Third Round===
+Virginia,             0.6563, Wisconsin,            0.3437
+Purdue,               0.4692, Tennessee,            0.5308
+Duke,                 0.6008, Virginia Tech,        0.3992
+Maryland,             0.3369, Michigan St,          0.6631
+Gonzaga,              0.6464, Florida St,           0.3536
+Texas Tech,           0.4911, Michigan,             0.5089
+North Carolina,       0.5501, Auburn,               0.4499
+Houston,              0.5196, Kentucky,             0.4804
+===Fourth Round===
+Virginia,             0.6021, Tennessee,            0.3979
+Duke,                 0.4866, Michigan St,          0.5134
+Gonzaga,              0.5431, Michigan,             0.4569
+North Carolina,       0.4572, Houston,              0.5428
+===Fifth Round===
+Virginia,             0.5591, Houston,              0.4409
+Gonzaga,              0.5240, Michigan St,          0.4760
+===Finals===
+Virginia,             0.5058, Gonzaga,              0.4942
